@@ -1,6 +1,6 @@
 Projeto final para aula de Desenvolvimento de Aplicativos Móveis IFRS-Restinga 2022/2
 
-![alt text](https://imgur.com/8EyRMim)
+![alt text](https://i.imgur.com/8EyRMim.png)
 
 
 
