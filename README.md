@@ -2,16 +2,14 @@ Projeto final para aula de Desenvolvimento de Aplicativos Móveis IFRS-Restinga 
 
 ![alt text](https://i.imgur.com/8EyRMim.png)
 
+![alt text](https://i.imgur.com/P3kyRb0.png)
 
+![alt text](https://i.imgur.com/TxwpThj.png)
 
-https://imgur.com/P3kyRb0
+![alt text](https://i.imgur.com/6Go3W9R.png)
 
-https://imgur.com/TxwpThj
+![alt text](https://i.imgur.com/KRdGehL.png)
 
-https://imgur.com/6Go3W9R
+![alt text](https://i.imgur.com/mlNImn.png)
 
-https://imgur.com/KRdGehL
-
-https://imgur.com/PmlNImn
-
-https://imgur.com/D7ulWfx
+![alt text](https://i.imgur.com/D7ulWfx.png)
